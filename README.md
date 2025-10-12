@@ -1,5 +1,5 @@
 ### Anish Kshirsagar ✨
-SY, CSE student specializing in AI and Machine Learning.
+CSE student specializing in AI and Machine Learning.
 
 
 ### 💪🏼Skills
