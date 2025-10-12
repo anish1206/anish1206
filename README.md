@@ -1,10 +1,10 @@
 ### Anish Kshirsagar ✨
-Second-year Computer Science student specializing in AI and Machine Learning.
+SY, CSE student specializing in AI and Machine Learning.
 
 
 ### 💪🏼Skills
-- Languages: Python, C/C++, Java, SQL
-- Technologies: MERN Stack, Docker, Git/GitHub
+- Languages: Python, C/C++, Java, JavaSript, SQL
+- Technologies: ReactJS, MongoDB, NodeJS, Docker
 - Domains: Machine Learning, Web Development
 
 
