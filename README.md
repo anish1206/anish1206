@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/03391488-79cd-41f3-b440-44ca2a392902" alt="Peter Parker Hello Sticker by Spider-Man" width="90" align="left" style="margin-right: 20px;"/>
+<img src="https://github.com/user-attachments/assets/03391488-79cd-41f3-b440-44ca2a392902" alt="Peter Parker Hello Sticker by Spider-Man" width="100" align="left" style="margin-right: 20px;"/>
 
-# Hello, I'm Anish Kshirsagar <br> <sub> Full-Stack Developer | AI & ML Student </sub>
+# Hello, I'm Anish Kshirsagar <br><br> <sub> Full-Stack Developer | AI & ML Student </sub>
 
 <br clear="left"/>
 
@@ -26,12 +26,11 @@ const anish = {
     education: "B.Tech in CSE (AIML) @ VIT Pune",
     cgpa: "9.28/10",
     currentFocus: ["Full-Stack Development", "AI/ML", "Cloud Architecture"],
-    passions: ["Building scalable applications", "Open Source", "Problem Solving"],
-    motto: "Learning. Building. Growing."
+    passions: ["Building scalable applications", "Open Source", "Problem Solving"]
 };
 ```
 
-- 💻 Passionate about creating **scalable, secure, and high-performance applications**
+- 💻 Creating **scalable, secure, and high-performance applications**
 - 🤖 Specialized in **AI/ML integration** with web applications
 - ☁️ Experienced in **cloud technologies** and modern deployment practices
 - 🌱 Always learning and exploring new technologies
@@ -39,7 +38,7 @@ const anish = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -75,7 +74,7 @@ const anish = {
 
 ---
 
-## 🌟 Leadership & Community
+##  Leadership & Community
 
 <table>
 <tr>
@@ -100,7 +99,7 @@ const anish = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -111,7 +110,7 @@ const anish = {
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -124,6 +123,6 @@ const anish = {
 
 <div align="center">
   
-### 💡 *"Gettin' Better, Day by Day."*
+###  *"Gettin' Better, Day by Day. 💪"*
 
 </div>
