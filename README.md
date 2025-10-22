@@ -1,14 +1,14 @@
 ### <img width="1646" height="410" alt="Screenshot 2025-10-21 175025" src="https://github.com/user-attachments/assets/0335a409-3e4d-429a-91f2-839805c4a32a" />
 
-<center><img src="https://github.com/user-attachments/assets/03391488-79cd-41f3-b440-44ca2a392902" alt="Peter Parker Hello Sticker by Spider-Man" width="100"/></center> 
-
 <div align="center">
 
-# 👋 Hello, I'm Anish Kshirsagar
+<img src="https://github.com/user-attachments/assets/03391488-79cd-41f3-b440-44ca2a392902" alt="Peter Parker Hello Sticker by Spider-Man" width="90" align="left" style="margin-right: 20px;"/>
 
-### Full-Stack Developer | AI & ML Student
+# Hello, I'm Anish Kshirsagar <br> <sub> Full-Stack Developer | AI & ML Student </sub>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=66ff66&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B%2C+I'm+Anish+Kshirsagar.;Full-Stack+Developer+%7C+AI+%26+ML+Engineer.;Learning..!+Building..!+Growing..!)](https://git.io/typing-svg)
+<br clear="left"/>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=66ff66&center=true&vCenter=true&width=900&lines=Learning..!+Building..!+Growing..!)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anish1206&label=Profile%20Views&color=6366f1&style=flat-square)](https://github.com/anish1206)
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kshirsagar-02031133b)
@@ -108,7 +108,6 @@ const anish = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish1206&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
