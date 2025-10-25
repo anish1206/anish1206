@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/03391488-79cd-41f3-b440-44ca2a392902" alt="Peter Parker Hello Sticker by Spider-Man" width="100" align="left" style="margin-right: 20px;"/>
 
-# Hello, I'm Anish Kshirsagar <br><br> <sub> Full-Stack Developer | AI & ML Student </sub>
+# Hello, I'm Anish Kshirsagar <br><br> <sub> Full-Stack Developer | AI & ML Engineer </sub>
 
 <br clear="left"/>
 
