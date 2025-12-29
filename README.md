@@ -9,7 +9,6 @@
 
 <br clear="left"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=66ff66&center=true&vCenter=true&width=900&lines=Learning..!+Building..!+Growing..!)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anish1206&label=Profile%20Views&color=6366f1&style=flat-square)](https://github.com/anish1206)
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kshirsagar-02031133b)
