@@ -24,7 +24,7 @@
 const anish = {
     location: "Pune, India 🇮🇳",
     education: "B.Tech in CSE (AIML) @ VIT Pune",
-    cgpa: "9.28/10",
+    cgpa: "9.23/10",
     currentFocus: ["Full-Stack Development", "AI/ML", "Cloud Architecture"],
     passions: ["Building scalable applications", "Open Source", "Problem Solving"]
 };
