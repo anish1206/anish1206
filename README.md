@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const anish = {
@@ -30,11 +30,11 @@ const anish = {
 };
 ```
 
-- 💻 Creating **scalable, secure, and high-performance applications**
-- 🤖 Specialized in **AI/ML integration** with web applications
-- ☁️ Experienced in **cloud technologies** and modern deployment practices
-- 🌱 Always learning and exploring new technologies
-- 🎯 Open to collaboration on innovative projects
+- Creating **scalable, secure, and high-performance applications**
+- Specialized in **AI/ML integration** with web applications
+- Experienced in **cloud technologies** and modern deployment practices
+- Always learning and exploring new technologies
+- Open to collaboration on innovative projects
 
 ---
 
@@ -67,7 +67,6 @@ const anish = {
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
 ![Hugging%20Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### Databases & Cloud
@@ -76,6 +75,8 @@ const anish = {
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-7C3AED?style=flat-square&logo=databricks&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -92,7 +93,7 @@ const anish = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzN0R_KpkUPpgnH-GDnmVdwZRmWeU9qk5lw&s" width="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpotYAFHt2O_79i[...]
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzN0R_KpkUPpgnH-GDnmVdwZRmWeU9qk5lw&s" width="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpotYAFHt2O_79icTHaNO7SXvg4Y4d1M76bQ&s" width="70"/><br>
 <b>Perplexity Campus Partner 2025</b><br>
 <sub>Promoted user growth for COMET browser</sub>
 </td>
@@ -128,14 +129,7 @@ const anish = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kshirsagar-02031133b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish1206)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.ksh06@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
-<div align="center">
-  
-###  *"Gettin' Better, Day by Day. 💪"*
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourportfolio.com](https://ashh-pro.vercel.app/))
 
 </div>
