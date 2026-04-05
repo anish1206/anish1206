@@ -53,6 +53,9 @@ const anish = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST%20API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Programming Languages and libraries
@@ -62,6 +65,10 @@ const anish = {
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
+![Hugging%20Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -74,6 +81,10 @@ const anish = {
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
+### Testing and CI/CD
+![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
 ---
 
 ##  Leadership & Community
@@ -81,7 +92,7 @@ const anish = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzN0R_KpkUPpgnH-GDnmVdwZRmWeU9qk5lw&s" width="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpotYAFHt2O_79icTHaNO7SXvg4Y4d1M76bQ&s" width="70"/><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzN0R_KpkUPpgnH-GDnmVdwZRmWeU9qk5lw&s" width="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpotYAFHt2O_79i[...]
 <b>Perplexity Campus Partner 2025</b><br>
 <sub>Promoted user growth for COMET browser</sub>
 </td>
