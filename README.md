@@ -118,7 +118,15 @@ const anish = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish1206&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish1206&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish1206&layout=compact&langs_count=10&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anish1206&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=anish1206&theme=tokyonight&margin-w=10&no-frame=true"/>
+
+<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=anish1206&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish1206&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=anish1206&theme=github-compact"/>
 
 </div>
 
